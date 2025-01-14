@@ -1,0 +1,11 @@
+{
+  "name": "git-fork",
+  "version": "1.0.0",
+  "main": "index.html",
+  "repository": "https://github.com/RodrigoCarvalho-Dev/Using-Git.git",
+  "author": "RodrigoCarvalho-Dev <rodrigosms103042r6@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "tailwindcss": "^3.4.17"
+  }
+}
